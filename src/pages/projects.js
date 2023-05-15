@@ -12,6 +12,7 @@ import revinyl from "../../public/images/Screen Shot 2023-01-10 at 8.32.22 PM co
 import snowman from "../../public/images/Snowman copy 2.png"
 import weather from "../../public/images/Screenshot 2023-05-02 at 8.51.16 PM copy.png"
 import snake from "../../public/images/Screenshot 2023-05-08 at 7.34.27 PM copy 2.png"
+import game from "../../public/images/Screenshot 2023-05-15 at 4.10.34 PM copy.png"
 
 
 const FramerImage = motion(Image);
@@ -163,13 +164,13 @@ const projects = () => {
 
                         <div className='col-span-12'>
                         <FeaturedProject 
-                            title="Crypto Screener Application"
-                            img={project1}
-                            summary="A feature-rich Crypto Screener App using React, Tailwind CSS, Context API, React Router and Recharts. 
-                            It shows detail regarding almost all the cryptocurrency. You can easily convert the price in your 
-                            local currency."
+                            title="R & T Games"
+                            img={game}
+                            summary="You can look at our listing of Video Games that could possibly peak your interest.
+                              Using PERN for this application, there is also user authentication to gain access to a more in-depth view of said video games.
+                              If you click on Video Games, you should be able to see a listing of games that the community has put together along with a description and rating."
                             link="/"
-                            github="/"
+                            github="https://github.com/tylercaillet/R_T_Games_Frontend"
                             type="Featured Project"
                             
                             
