@@ -36,18 +36,27 @@ run:
 
 ### **_Screenshots_**
 
-> #### **Landing Page**
+> #### **Home Page**
 
-![image](https://imgur.com/a/Dir7rXm)
+![Home](./public/images/Screenshot%202023-05-15%20at%204.28.43%20PM.png)
 
-> #### **About**
 
-![image]()
+![Home Mobile](./public/images/Screenshot%202023-05-15%20at%204.28.54%20PM.png)  
 
-> #### **Projects**
 
-![image]()
+![About](./public/images/Screenshot%202023-05-15%20at%204.29.16%20PM.png)
 
+
+![Projects](./public//images//Screenshot%202023-05-15%20at%204.29.35%20PM.png)
+
+
+![Home Dark Mode](./public/images/Screenshot%202023-05-15%20at%205.14.00%20PM.png)
+
+
+![Home Dark Mode Mobile](./public/images/Screenshot%202023-05-15%20at%205.14.09%20PM.png)
+
+
+![Projects Dark Mode Mobile](./public/images/Screenshot%202023-05-15%20at%205.14.27%20PM.png)
 
 ---
 
