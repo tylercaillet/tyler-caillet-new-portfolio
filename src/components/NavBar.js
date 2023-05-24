@@ -4,7 +4,7 @@ import React, { useState } from 'react'
 import { GithubIcon, LinkedInIcon, MoonIcon, SunIcon, TwitterIcon } from "./Icons"
 import Logo from "./Logo"
 import {motion} from "framer-motion"
-import useThemeSwitcher from './hooks/usethemeSwitcher'
+import useThemeSwitcher from './hooks/useThemeSwitcher'
 
 const CustomLink = ({href, title, className= "" }) => {
     const router = useRouter();
