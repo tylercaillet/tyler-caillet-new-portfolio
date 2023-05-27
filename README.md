@@ -1,7 +1,5 @@
 # Tyler_Caillet_Portfolio
 
-![image](./images/video_game_image.png)
-
 ## Date: 05/01/2023
 
 ### Tyler Caillet
@@ -14,8 +12,7 @@
 
 **Website Link:**
 
-N/A
----
+## N/A
 
 ### **_Technologies_**
 
@@ -28,7 +25,9 @@ Framer-Motion
 ### **_Getting Started_**
 
 #### - Fork and Clone
-run: 
+
+run:
+
 1. `npm i`
 2. `npm run dev`
 
@@ -40,21 +39,15 @@ run:
 
 ![Home](./public/images/Screenshot%202023-05-15%20at%204.28.43%20PM.png)
 
-
-![Home Mobile](./public/images/Screenshot%202023-05-15%20at%204.28.54%20PM.png)  
-
+![Home Mobile](./public/images/Screenshot%202023-05-15%20at%204.28.54%20PM.png)
 
 ![About](./public/images/Screenshot%202023-05-15%20at%204.29.16%20PM.png)
 
-
 ![Projects](./public//images//Screenshot%202023-05-15%20at%204.29.35%20PM.png)
-
 
 ![Home Dark Mode](./public/images/Screenshot%202023-05-15%20at%205.14.00%20PM.png)
 
-
 ![Home Dark Mode Mobile](./public/images/Screenshot%202023-05-15%20at%205.14.09%20PM.png)
-
 
 ![Projects Dark Mode Mobile](./public/images/Screenshot%202023-05-15%20at%205.14.27%20PM.png)
 
@@ -70,5 +63,3 @@ run:
 
 - [framer-motion](https://www.framer.com/motion/) <br />
 - [Tailwind css](https://tailwindcss.com/) <br />
-
-
