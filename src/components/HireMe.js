@@ -13,7 +13,9 @@ const HireMe = () => {
     >
       <div className="w-48 h-auto flex items-center justify-center relative md:w-24">
         <CircularText
-          className={'fill-dark animate-spin-slow dark:fill-light'}
+          className={
+            'fill-dark animate-spin-slow dark:fill-light pointer-events-none'
+          }
         />
 
         <Link
@@ -25,6 +27,7 @@ font-semibold hover:bg-light hover:text-dark
 
 dark:bg-light dark:text-dark hover:dark:bg-dark hover:dark:text-light hover:dark:border-light
 md:w-12 md:h-12 md:text-[10px]
+z-10
 "
         >
           Hire Me
